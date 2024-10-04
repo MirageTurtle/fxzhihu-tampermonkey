@@ -1,6 +1,7 @@
 This is a Tampermonkey script to read Zhihu answer via [[https://github.com/frostming/fxzhihu][fxzhihu]].
+
 It will insert a button next to the like button.
 
-* TODO
-1. Adjust the gap between the like button and the fxzhihu button.
-2. It seems that in some cases the button is not displayed correctly.
++ TODO
+  1. Adjust the gap between the like button and the fxzhihu button.
+  2. It seems that in some cases the button is not displayed correctly.
