@@ -1,3 +1,5 @@
+Archived as fxzhihu is down now.
+
 This is a Tampermonkey script to read Zhihu answer via [[https://github.com/frostming/fxzhihu][fxzhihu]].
 
 It will insert a button next to the like button.
